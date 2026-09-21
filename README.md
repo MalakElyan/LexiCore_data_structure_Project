@@ -136,7 +136,7 @@ This was a team project for the Data Structures &amp; Algorithms course.
 ---
 
 ## 📄 License
-© 2025 **Malak Elyan**. All rights reserved.
+© 2026 **Malak Elyan**. All rights reserved.
 
 ---
 
