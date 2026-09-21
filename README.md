@@ -1,5 +1,14 @@
 # 🚀 LexiCore: Mobile Text Processing Engine
 
+---
+![Java](https://img.shields.io/badge/Java-11%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![OOP](https://img.shields.io/badge/Architecture-OOP_Principles-3776AB?style=for-the-badge&logo=java&logoColor=white)
+![Console Engine](https://img.shields.io/badge/Platform-Console_Engine-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+###
+
 > A Java console-based application that simulates the background SDK of a smart mobile keyboard, providing on-device text processing features without cloud dependency.
 
 ---
