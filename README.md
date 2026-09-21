@@ -136,9 +136,10 @@ This was a team project for the Data Structures &amp; Algorithms course.
 ---
 
 ## 📄 License
-This project is developed for academic purposes as part of the Software Development curriculum at UCAS.
+© 2025 **Malak Elyan**. All rights reserved.
 
 ---
+
 ## 🔗 Connect with Me
 - 🐙 **GitHub:** [@MalakElyan](https://github.com/MalakElyan) 
 - 💼 **LinkedIn:** [Malak Elyan](https://www.linkedin.com/in/malak-elyan) 
